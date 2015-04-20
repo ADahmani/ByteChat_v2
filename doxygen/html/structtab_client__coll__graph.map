@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_client.html" title="Structure représentant un Client Contient un entier idClient qui est l&#39;id du client, *nomClient son nom, *mdpClient son mot de passe et *amis sa liste d&#39;amis." alt="" coords="15,101,71,131"/>
+<area shape="rect" id="node4" href="$struct_t___amis.html" title="Structure représentant la liste d&#39;amis Contient un tableau contenant la liste des id amis et un entie..." alt="" coords="9,5,76,35"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node25" href="$client__row_8h.html" title="Définition des structures." alt="" coords="705,160,796,189"/>
+<area shape="rect" id="node36" href="$structure__serveur_8h.html" title="Définition des structures." alt="" coords="1070,160,1204,189"/>
+<area shape="rect" id="node38" href="$fonction__client_8h.html" title="Définition de prototypes." alt="" coords="398,83,516,112"/>
+<area shape="rect" id="node41" href="$fonction__server_8h.html" title="Prototypes des fonctions liés à la liste chainée de client connectés." alt="" coords="977,83,1100,112"/>
+<area shape="rect" id="node49" href="$fonction__ncurses_8h.html" title="Prototypes des fonction liées à ncurses." alt="" coords="105,83,236,112"/>
+</map>

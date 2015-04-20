@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_l_l_n_o_d_e.html" title="Structure représentant une maille de la liste chainée de client connectés Contient une structure THRE..." alt="" coords="23,101,97,131"/>
+<area shape="rect" id="node5" href="$struct_t_h_r_e_a_d_i_n_f_o.html" title="Structure contenant toutes les références d&#39;un client sur le serveur Contient thread_ID, un pointeur sur le thread se chargeant du client, sockfd la référence sur le socket client du client et alias le nom du client." alt="" coords="5,5,115,35"/>
+</map>
